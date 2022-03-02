@@ -19,4 +19,6 @@ int main() {
     fac=fac*r;
   }
   cout<<"factorial is:"<<no<<fac;
+
+  return 0;
 }

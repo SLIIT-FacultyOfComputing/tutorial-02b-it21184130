@@ -42,11 +42,12 @@ int main() {
   }
   netsalary=salary+othrs*otrate;
   cout<<"net salary is:"<<netsalary;
+
+  return 0;
 }
 
 
-   netSalary = salary + otHrs* otRate;
-   printf("Net Salary is %f ", netSalary);
+   
   
-   return 0;
-}
+
+
