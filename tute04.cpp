@@ -13,10 +13,12 @@ Do not modify the main function.*/
 
 #include <iostream>
 using namespace std;
+
 long fc(int no);
 long ncr(int n,int r);
 
 int main() {
+  
   int n,r;
   cout<<"enter value n:";
   cin>>n;
