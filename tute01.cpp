@@ -27,5 +27,4 @@ int main() {
 
   inches=cm/2.54;
   cout<<"Length in inches is :"<<inches<<endl;
-  return 0;
 }
